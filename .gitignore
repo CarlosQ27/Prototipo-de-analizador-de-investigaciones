@@ -1,0 +1,12 @@
+# Ignorar el archivo .env
+.env
+
+# Ignorar el directorio __pycache__
+__pycache__/
+
+# Ignorar los resultados de los spiders
+about_results.txt
+conference_results.txt
+
+# Ignorar el archivo PDF del reporte
+report.pdf
